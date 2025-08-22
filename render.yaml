@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: convo40-backend
+    name: Chatting-Website
     env: node
     rootDir: backend
     plan: free
