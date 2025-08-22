@@ -1,6 +1,8 @@
 # ChatApp
 try here: https://chatting-website-lyxr.onrender.com
-✨ Features
+
+<br>
+#✨ Features
 ✅ User Authentication – Sign up and log in securely.
 ✅ Real-Time Messaging – Send and receive instant text messages.
 ✅ Friend System – Search users by username, send friend requests, accept/decline requests.
@@ -8,7 +10,7 @@ try here: https://chatting-website-lyxr.onrender.com
 ✅ Media Sharing – Send images, files, and text messages.
 ✅ Notifications – Get notified when a friend request is accepted or when a message is received.
 ✅ Privacy & Security – Only connected friends can chat or view status.
-
+<br>
 🚀 How It Works (Step-by-Step Guide)
 1. Sign Up
 Create an account by providing your email, username, and password.
